@@ -64,8 +64,9 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 &nbsp;
 
 <div>
-  
-### 💻 Projetos em Andamento
+
+
+<!--### 💻 Projetos em Andamento
 
 #### 🚀 PagesLink
 
@@ -81,7 +82,7 @@ Repositórios da aplicação PagesLink:
 &nbsp;
 
 ---
-
+-->
 &nbsp;
 
 ### 📊 GitHub Stats
